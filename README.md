@@ -6,4 +6,4 @@
 - 🔮 Portolio: www.zoeschreiber.be
 
 
-- 💻 JavaScript ⎜React ⎜Python ⎜ Django ⎜Swift ⎜SQL ⎜HTML ⎜CSS ⎜C ⎜Tensor Flow ⎜sci-kit learn ⎜web development ⎜iOS development ⎜API design and integration.
+- JavaScript ⎜React ⎜Python ⎜ Django ⎜Swift ⎜SQL ⎜HTML ⎜CSS ⎜C ⎜Tensor Flow ⎜sci-kit learn ⎜web development ⎜iOS development ⎜API design and integration.
