@@ -2,7 +2,7 @@
 
 ➕  My work leverages creative coding, storytelling and latest technology trends to build eye-catching websites and apps that bring digital products, user interfaces and artful web experiences to life.  
 
-➕ A multi-lingual (French, English, Dutch, Spanish) creative technologist, I bridge the gap between art, culture, technology and design. Curiosity, creativity, problem-solving and empathy are my core values. My interdisciplinary approach enables me to relate to multiple stakeholders and to translate business objectives into bespoke, user-friendly and visually compelling websites, apps, digital experiences and narratives. 
+➕ A multi-lingual (French, English, Dutch, Spanish) creative technologist, I bridge the gap between art, culture, technology and design. Curiosity, creativity, problem-solving and empathy are my core values. My interdisciplinary approach enables me to relate to multiple stakeholders and to translate business objectives into bespoke, user-friendly and visually compelling websites, apps and digital experiences. 
 <br/>
 » https://zoeschreiber.vercel.app
 
