@@ -1,4 +1,4 @@
-👋  Hello, world! I am a web developer and designer, writer and curator. 
+👋  Hello, world! I am a web developer and designer, writer and art curator. 
 
 ➕  My work leverages creative coding, visual storytelling and information design to build eye-catching websites, data visualizations and apps that bring digital products, user interfaces and artful web experiences to life.  
 
