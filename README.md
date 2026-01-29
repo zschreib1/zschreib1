@@ -1,3 +1,3 @@
-👁️  www.zoeschreiber.be
+👁️  www.zoeschreiber.be/portfolio
 
 ✍️ www.zigzags.be
